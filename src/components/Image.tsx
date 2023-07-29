@@ -6,4 +6,5 @@ export const Image = styled.div`
   background-image: url(${background});
   width: 280px;
   height: 170px;
+  margin-left: 10px;
 `

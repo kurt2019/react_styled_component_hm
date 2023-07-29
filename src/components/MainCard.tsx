@@ -7,6 +7,5 @@ export const MainCard = styled.div`
   background: #FFF;
   box-shadow: 0 4px 20px 5px rgba(0, 0, 0, 0.10);
   margin: 15% auto auto auto;
-  padding-left: 10px;
   padding-top: 10px;
 `
